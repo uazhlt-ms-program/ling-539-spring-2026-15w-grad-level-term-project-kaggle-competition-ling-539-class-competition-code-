@@ -1,0 +1,210 @@
+CSC/DATA/INFO/ISTA/LING 4/539 — Statistical NLP (Spring 2026)
+
+Term Project: Kaggle Classification and Write-Up
+
+---
+
+OVERVIEW
+
+This term project is an open-ended applied NLP task with two main objectives:
+
+1. Apply course concepts to a real-world classification problem
+2. Practice technical communication by clearly explaining your approach
+
+---
+
+WHO MUST COMPLETE THIS
+
+Required:
+Graduate-level students (LING 539, CSC 539, INFO 539)
+
+Optional / Exempt:
+Undergraduate-level students (LING 439, CSC 439, ISTA 439)
+
+---
+
+THE TASK
+
+You will:
+
+* Build a classification system using a dataset from a private Kaggle competition
+* Use at least one algorithm covered in class
+* Submit predictions to Kaggle and track performance on the leaderboard
+* Iteratively improve your model (multiple submissions allowed)
+
+---
+
+ACCESS REQUIREMENTS
+
+To participate:
+
+1. Accept the GitHub Classroom assignment
+2. Use that repository to access the Kaggle competition link
+3. Join Kaggle and download:
+
+   * Training data
+   * Test data
+
+---
+
+DELIVERABLES
+
+You must submit work across three platforms:
+
+1. Kaggle
+
+* Submit predictions
+* Leaderboard tracks performance
+
+2. GitHub (Code Repository)
+
+* Full source code
+* Must reproduce your Kaggle submission
+
+3. GitHub Blog Site
+
+* Write a technical blog post explaining your approach
+* Submit via pull request
+
+4. D2L Submission
+
+* Submit:
+
+  * Blog post URL
+  * Confirmation that all components are complete
+
+---
+
+KEY LINKS
+
+GitHub Classroom:
+https://classroom.github.com/a/uhZ6joRH
+
+Blog site (public):
+https://uazhlt-ms-program.github.io/ling-539-competition-2026/about
+
+Blog repository:
+https://github.com/uazhlt-ms-program/ling-539-competition-2026
+
+---
+
+CHECKLIST
+
+Tasks to do now:
+
+* Accept GitHub Classroom assignment
+* Join Kaggle competition
+* Confirm access to blog repository
+
+Tasks to complete before deadline:
+
+* Submit at least one Kaggle prediction
+* Push final code to GitHub
+* Submit blog post via pull request
+* Submit blog URL and confirmation in D2L
+
+---
+
+DUE DATE
+
+May 6, 2026 — 11:55 PM
+
+---
+
+GRADING RUBRIC
+
+1. Competition Performance
+
+SUPERIOR:
+Your best submission is in the top 20 percent on the final leaderboard
+
+PASS:
+You have made a submission to Kaggle before the competition closes
+
+INADEQUATE:
+No submission to Kaggle competition
+
+---
+
+2. Write-Up Quality
+
+Clarity of Blog Post
+
+SUPERIOR:
+Your approach to analyzing the data and building the classifier is clearly explained with helpful detail and examples. It is easy to understand the problems or decisions you faced and how you solved them. Someone could reproduce your results using your repository.
+
+PASS:
+Your approach is explained in general terms with some examples. Some workflow details are unclear.
+
+INADEQUATE:
+Explanation is missing or unclear. No blog post submitted or insufficient content.
+
+---
+
+3. Code Quality
+
+SUPERIOR:
+Code is runnable with clear documentation (comments, docstrings). Instructions are clear. May include containerization (Docker, etc.).
+
+PASS:
+Code is provided but documentation or setup instructions are unclear or incomplete.
+
+INADEQUATE:
+Code is missing or does not run.
+
+---
+
+4. Code Minimum Requirement
+
+PASS:
+Complete source code is provided and reproduces Kaggle submission results.
+
+INADEQUATE:
+Code is missing, incomplete, or not functional.
+
+---
+
+FINAL GRADE CALCULATION
+
+A:
+At least one SUPERIOR and all other categories PASS
+
+B:
+PASS in all categories
+
+C:
+INADEQUATE in exactly one category
+
+D:
+INADEQUATE in two categories
+
+E:
+INADEQUATE in three or more categories
+
+---
+
+IMPORTANT NOTES
+
+* Kaggle ranking alone does not determine your grade
+* You can still earn a high grade with a low leaderboard ranking
+* Emphasis is on reproducibility, code quality, and clarity
+
+---
+
+RECOMMENDED STRATEGY
+
+* Start with a simple baseline model early
+* Improve iteratively
+* Document preprocessing, features, model choices, and evaluation
+* Ensure your code is reproducible by others
+
+---
+
+FINAL SUBMISSION SUMMARY
+
+You are done when you have:
+
+* Kaggle submission(s)
+* GitHub repository with working code
+* Blog post explaining your approach
+* D2L submission with blog link and confirmation
